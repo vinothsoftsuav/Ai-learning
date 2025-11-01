@@ -1,14 +1,5 @@
 # OpenRouter Chatbot
 
-A full-stack demo chatbot that pairs a FastAPI backend with a responsive React (Vite) frontend. Users can type questions in the browser, the backend forwards them to OpenRouter, and the responses stream back into the UI.
-
-## Features
-
-- FastAPI proxy that keeps your OpenRouter API key on the server side
-- Responsive, mobile-first chat experience in React with a modern look
-- CORS-ready configuration so the frontend can talk to the backend during development
-- Simple configuration via environment variables
-
 ## Prerequisites
 
 - Python 3.10+
@@ -69,4 +60,5 @@ git push origin main
 ```
 
 Happy building! ✨
+
 
